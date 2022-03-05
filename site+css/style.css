@@ -1,0 +1,166 @@
+body{
+
+  background-image: url("images/lowpoly.png");
+  
+  background-position: top center;
+
+}
+.gif{
+	width: 100px;
+	position: absolute;
+	margin-bottom: 150px;
+}
+
+.input{
+	width: 200px;
+	position: relative;
+	margin-left: 1200px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: #1E90FF;
+	border: 1px solid #4169E1
+	border-radius: 20px;
+}
+
+.input:focus{
+	color: #1E90FF;
+	font-size: 16px;
+  border: 1px solid #4169E1
+  border-radius: 20px;
+}
+.Name{
+	color: white;
+	font-style: italic;
+	font-size: 50px;
+	text-shadow: 1px 1px 4px #00BFFF;
+	position: absolute;
+	margin-left: 535px;
+}
+
+.Menu{
+text-align: left;
+border: 1px solid black;
+margin-left: 1275px;
+border-radius: 20px;
+
+}
+h3{
+	color: #87CEEB;
+}
+
+.advantages-list{
+list-style-type: circle;
+color: black;
+font-size: 17px;
+line-height: 25px;
+font-style: italic;
+background-color: white;
+	border: 1px solid black;
+	border-radius: 20px;
+	margin-right: 1000px;
+}
+
+
+
+.no_list{
+	list-style-type: none;
+	text-decoration: none;
+	padding: 0;
+}
+
+.text_decor{
+	color: white;
+	font-style: italic;
+	font-size: 18px;
+	font-weight: 400;
+
+}
+.full_text_decor{
+	color: #484343;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: left;
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 3px;
+}
+
+
+.link_decor{
+	text-decoration: none;
+	color: #00BFFF;
+	padding: 9px;
+}
+
+
+.link_decor:hover{
+	text-decoration: underline;
+}
+
+.advantages{
+	margin-top: 400px;
+	position:absolute; 
+	left:100px; 
+	top: 300px; 
+	width: 100%;
+
+}
+.Info{
+margin-top: 200px;
+}
+
+.more_info{
+	width: 40%;
+	margin-top: 350px;
+	position: relative;
+	margin-left: 50%;
+}
+
+
+.short_info{
+margin-left: 800px;
+padding-top: 100px;
+}
+
+.short_list_decor{
+	color: #707070;
+	font-size: 14px;
+	font-style: italic;
+	font-height: 16px ;
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin-right: 250px;
+	line-height: 20px;
+}
+
+.product{
+width: 100%;
+position: relative;
+}
+
+.image_product{
+	width: 650px;
+	height: 450px;
+  border: 2px solid #00BFFF;
+  margin-left: 40px;
+  position:absolute;
+}
+.image
+  {
+  	background-color: white;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  }
+ .site-footer{
+ position:absolute; 
+	left:0px; 
+	width: 110%	
+ }
+.foot_text{
+	color: white;
+}
+
